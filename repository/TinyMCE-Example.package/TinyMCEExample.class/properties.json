@@ -1,0 +1,14 @@
+{
+	"category" : "TinyMCE-Example",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TinyMCEExample",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

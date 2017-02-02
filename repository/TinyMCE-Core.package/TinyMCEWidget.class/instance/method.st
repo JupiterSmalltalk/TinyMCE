@@ -1,0 +1,3 @@
+jquery widget
+method
+  ^ 'tinymce'

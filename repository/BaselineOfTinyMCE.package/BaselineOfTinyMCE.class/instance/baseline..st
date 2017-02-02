@@ -4,4 +4,5 @@ baseline: spec
 	spec for: #'common' do: [
 		spec 
 			package: 'TinyMCE-Core';
-			package: 'TinyMCE-FileLibrary'. ].
+			package: 'TinyMCE-FileLibrary';
+			package: 'TinyMCE-Example'. ].
