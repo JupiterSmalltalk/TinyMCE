@@ -1,0 +1,14 @@
+{
+	"category" : "TinyMCE-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TinyMCEWidget",
+	"pools" : [
+		 ],
+	"super" : "JQWidget",
+	"type" : "normal" }

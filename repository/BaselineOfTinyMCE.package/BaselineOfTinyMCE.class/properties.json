@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfTinyMCE",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfTinyMCE",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
